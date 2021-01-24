@@ -1,0 +1,15 @@
+*.o
+*.hi
+DockerFile
+*.y
+*.x
+ccpp
+LexCPP.hs
+Runtime.class
+ParCPP.*
+PrintCPP.*
+SkelCPP.*
+TestCPP.*
+DocCPP.txt
+AbsCPP.hs
+ErrM.hs
